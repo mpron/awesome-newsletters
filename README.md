@@ -29,7 +29,7 @@ _
 
 ## Web Development
 
-**HTML5 Weekly ** [html5weekly.com](http://html5weekly.com) _Browsers, HTML, CSS, JavaScript_
+**HTML5 Weekly** [html5weekly.com](http://html5weekly.com) _Browsers, HTML, CSS, JavaScript_
 
 A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 
@@ -69,7 +69,7 @@ A free, once–weekly e-mail round-up of Ruby news and articles.
 
 A free, once–weekly e-mail round-up of Node.js news and articles.
 
-**Python Weekly**[pythonweekly.com](http://www.pythonweekly.com/)_Python_
+**Python Weekly**[pythonweekly.com](http://www.pythonweekly.com/) _Python_
 
 A free weekly newsletter featuring curated news, articles, new releases, jobs etc. related to Python.
 
