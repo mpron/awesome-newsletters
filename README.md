@@ -113,7 +113,7 @@ A hand picked round up of the best iOS development links every week. Curated by 
 
 A free newsletter that helps you to stay cutting-edge with your Android development.
 
-**Mobile Web Weekly**[mobilewebweekly.co](http://mobilewebweekly.co/) Mobile web development
+**Mobile Web Weekly** [mobilewebweekly.co](http://mobilewebweekly.co/) Mobile web development
 
 A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.
 
