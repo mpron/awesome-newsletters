@@ -57,10 +57,6 @@ _
 
 ## **Languages**
 
-**Status Code** [http://statuscode.org/](http://statuscode.org/)  _Language-agnostic_
-
-A language agnostic roundup of the latest ideas, releases, trends, events and must-read articles from the programming world (think C, UNIX, algorithms, editors, protocols.)
-
 **Ruby Weekly** [rubyweekly.com](http://rubyweekly.com/) _Ruby_
 
 A free, once–weekly e-mail round-up of Ruby news and articles.
