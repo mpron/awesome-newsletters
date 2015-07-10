@@ -53,6 +53,10 @@ Hand-picked content by the **experts** in Angular - delivered directly to your i
 
 A once a week email with no spam, no rambling. Just pure awesome links to the best web design news and articles to hit the interweb during the week.
 
+**Web Development Reading List** [wdrl.info/](https://wdrl.info/) _Web, Design, Tools, JavaScript, Work life_
+
+A handcrafted, carefully selected list of web development related resources. Published usually every week.
+
 _
 
 ## **Languages**
