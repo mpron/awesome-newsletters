@@ -69,7 +69,7 @@ A free, once–weekly e-mail round-up of Ruby news and articles.
 
 A free, once–weekly e-mail round-up of Node.js news and articles.
 
-**Python Weekly**[pythonweekly.com](http://www.pythonweekly.com/) _Python_
+**Python Weekly** [pythonweekly.com](http://www.pythonweekly.com/) _Python_
 
 A free weekly newsletter featuring curated news, articles, new releases, jobs etc. related to Python.
 
