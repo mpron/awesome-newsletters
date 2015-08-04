@@ -13,6 +13,10 @@ Big Data technology news and links delivered to your inbox, weekly.
 
 A resource for everything happening in the NoSQL space.
 
+**DataElixir** [dataelixir.com/](http://dataelixir.com/) _Data Science, Big Data_
+
+A weekly collection of the best data science news, resources, and inspirations from around the web.
+
 **DB Weekly** [dbweekly.com](http://dbweekly.com/) _Database_
 
 A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
