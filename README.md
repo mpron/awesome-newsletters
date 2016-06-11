@@ -147,6 +147,9 @@ Get weekly or daily updates from SDN Central's blog posts covering the latest in
 
 A weekly curated publication full of interesting, relevant links for productive remote working and communication.
 
+**Microservices Weekly** [microservicesweekly.com](http://microservicesweekly.com) _Microservices, Docker, Cloud computing_
+
+Free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 _
 
 **DZone Newsletter** _Java, Web Dev, Big Data, SQL, NoSQL, IoT, Performance, Cloud, DevOps, Enterprise Integration, Mobile, and more._
