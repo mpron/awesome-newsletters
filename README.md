@@ -9,10 +9,6 @@
 
 Hadoop Weekly is a summary of the week's top news in the Apache Hadoop ecosystem. It's aimed at developers or those trying to keep on top of the latest Hadoop developments.
 
-**Big Data Weekly** [bigdataweekly.com](http://bigdataweekly.com/) _Big Data, Data Science_
-
-Big Data technology news and links delivered to your inbox, weekly.
-
 **NoSQL Weekly** [nosqlweekly.com](http://www.nosqlweekly.com/) _NoSQL, Database, Big Data_
 
 A resource for everything happening in the NoSQL space.
@@ -28,10 +24,6 @@ A weekly round-up of database technology news and articles covering new developm
 **Postgres Weekly** [postgresweekly.com](http://postgresweekly.com/) _PostgreSQL, Database, MySQL_
 
 A free, once–weekly e-mail round-up of PostgreSQL news and articles.
-
-**MySQL Weekly** [mysqlnewsletter.com](http://mysqlnewsletter.com/) _MySQL_
-
-A newsletter to the MySQL community for all things MySQL.
 
 _
 
@@ -139,10 +131,6 @@ _
 
 ## Other
 
-**RaspPi Weekly** [raspiweekly.com](http://www.raspiweekly.com) _Raspberry Pi, Makers_
-
-A free weekly newsletter featuring curated news, articles, cool projects, tools and libraries etc related to Raspberry Pi.
-
 **Founder Weekly** [founderweekly.com](http://www.founderweekly.com) _Startup scene_
 
 A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, 
@@ -152,11 +140,6 @@ how to guides, tips and tricks, resources, events and more.
 **SDNCentral Weekly** [sdncentral.com/subscribe-newsletter](https://www.sdncentral.com/subscribe-newsletter/) _SDN_
 
 Get weekly or daily updates from SDN Central's blog posts covering the latest in SDN and network virtualization.
-
-**Remotive** [remoteworking.curated.co](https://remoteworking.curated.co/) _Project management, Remote working_
-
-A weekly curated publication full of interesting, relevant links for productive remote working and communication.
-
 _
 
 **DZone Newsletter** _Java, Web Dev, Big Data, SQL, NoSQL, IoT, Performance, Cloud, DevOps, Enterprise Integration, Mobile, and more._
