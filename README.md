@@ -137,6 +137,14 @@ A periodical about best practices and advanced techniques for iOS and OS X devel
 
 _
 
+## General Programming
+
+**daily.dev Digest** [daily.dev](https://daily.dev) _Programming, DevOps, AI, Career_
+
+A community-driven newsletter delivering the most engaged developer stories from the daily.dev feed. Curated by a community of 1M+ developers, covering programming, DevOps, AI, and career topics as a concise, high-signal update.
+
+_
+
 ## Other
 
 **RaspPi Weekly** [raspiweekly.com](http://www.raspiweekly.com) _Raspberry Pi, Makers_
