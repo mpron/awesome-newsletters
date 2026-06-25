@@ -37,6 +37,7 @@ _
 
 ## Machine Learning / Artificial Intelligence
 
+**AI Weekly** [AI Weekly](https://aiweekly.co/). Independent AI news newsletter, 3x/week since 2015, read by 44,000+ professionals. The few AI stories that matter, plus the proprietary AI Weekly Index, a quarterly State-of-AI recap, and an 11-year archive.
 **Air Around AI** [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 
 _
