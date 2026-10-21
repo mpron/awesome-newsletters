@@ -39,6 +39,8 @@ _
 
 **Air Around AI** [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
 
+**？｜Shift** [kai-nex.com/shift](https://kai-nex.com/shift/). Weekly curated AI news index with one-line summaries and official source links ([GitHub](https://github.com/orocoa/shift)).
+
 _
 
 ## Web Development
